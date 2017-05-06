@@ -1,0 +1,8 @@
+open formspec regardless of time
+button to set home
+button to set respawn
+if night, button to sleep
+
+put small 8*1 inv on bed
+[no] lock bed [anyone can sleep, only owner can use chest, set home, or set respawn]
+[?] protect bed [anyone can sleep, only members can use chest, set home, or set respawn]

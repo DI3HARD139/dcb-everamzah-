@@ -1,0 +1,40 @@
+character1.png: Human Male
+character0.png: Human Female
+alien1.png: Alien Male
+alien0.png: Alien Female
+character_1.png: Sam 0
+character_2.png: Sam I
+character_3.png: Sam II
+character_4.png: Zeg9
+character_5.png: VanessaE
+character_6.png: Iron Man MK. 7
+character_7.png: C55
+character_8.png: Female Sam
+character_9.png: Jordach
+character_10.png: Tuxedo Sam
+character_11.png: Semmett9
+character_12.png: Semmett9 II
+character_13.png: rotor112
+character_14.png: Older Man Sam
+character_15.png: G-Robo v5000
+character_16.png: jojoa1997
+character_17.png: Zenohelds default player
+character_18.png: Sdzen
+character_19.png: John
+character_20.png: rotor112 II
+character_21.png: Older Man Sam II
+character_22.png: G-Robo v5000 II
+character_23.png: Interstella 5555 guitarist
+character_24.png: jojoa1997 II
+character_25.png: Zenohelds default player II
+character_26.png: Sdzen II
+character_27.png: Horrible Sptring Sdzen
+character_28.png: B
+character_29.png: Demon Farmer Sam
+character_30.png: Tree
+character_31.png: Interstella 5555 guitarist 2
+character_32.png: Summer
+character_33.png: jojoa1997 III
+character_34.png: Brett Favre
+character_35.png: Summer Sam
+character_36.png: Samantha I
