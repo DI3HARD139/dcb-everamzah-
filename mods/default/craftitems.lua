@@ -98,6 +98,20 @@ minetest.register_on_player_receive_fields(function(player, formname, fields)
 		data.owner = player:get_player_name()
 		data.description = "\""..fields.title.."\" by "..data.owner
 		data.text = fields.text
+
+
+-- hotfix for too long books server crash bug  (shivajiva,Plebs)
+
+if #data.title > 80 then
+	data.title = string.sub(data.title,1,80)
+end		
+			
+if #data.text > 4000 then 
+	data.text = string.sub(data.text, 1, 4000)
+end			
+
+
+
 		data.text_len = #data.text
 		data.page = 1
 		data.page_max = math.ceil((#data.text:gsub("[^\n]", "") + 1) / lpp)
