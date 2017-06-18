@@ -1,6 +1,7 @@
 MIT License
 
 Copyright (c) 2017 DI3HARD139, Everamzah, Cessna151 and other contributors.
+Portions of this game use works by other Minetest developers. Credits and Licenses for such works can be found in their respective folders.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
